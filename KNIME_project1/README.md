@@ -5,7 +5,7 @@ Technical Assessment submissions for CS0065-AN42.
 This repository contains the required output for Asynchronous Activity 1. The project uses KNIME to predict student risk status from academic performance data.
 
 ## Files
-- `KNIME_project1.knwf` - exported KNIME workflow
+- `workflow.knwf` - exported KNIME workflow
 - `student_performance_knime.csv` - dataset used by the workflow
 
 ## Algorithms
